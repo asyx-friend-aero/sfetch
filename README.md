@@ -1,1 +1,1 @@
-# zfetch
+# sfetch
