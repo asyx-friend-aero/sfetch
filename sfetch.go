@@ -116,7 +116,7 @@ func main() {
 			ColorBlue + "   / /    \\ \\" + ColorReset,
 			ColorBlue + "  / /      \\ \\" + ColorReset,
 			ColorBlue + " / /   --   \\ \\" + ColorReset,
-			ColorBlue + "/_/        \\_\\" + ColorReset,
+			ColorBlue + "/_/          \\_\\" + ColorReset,
 		}
 	}
 
